@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center"><b><i>A short description of your project</b></i></p>
+<p align="center"><b><i>A lightweight python module to print colored text to the terminal easily </b></i></p>
 
 ## Description
 A more detailed description of your project.
